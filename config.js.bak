@@ -22,7 +22,7 @@ const antinewchatmsg = 'O anti chat novo está ativado e você não é meu propr
 //mensagem do antinewchat
 
 
-const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
+const antipvmsg = '*🚫 PV BLOQUEADO https://chat.whatsapp.com/JsLkMHjuxQiJJ19LJ8SSeV 🚫*'
 //mensagem do antipv
 
 const limitqnt = 9999
