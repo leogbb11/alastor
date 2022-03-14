@@ -1,6 +1,7 @@
 const help = (p, date, user, wame) => {
-return `Olá @${user} bem vindo ao RECONNECT-BOT.
-CUMPRA AS REGRAS E DIVIRTA-SE!!
+return `Olá @${user} bem vindo ao ✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟, 
+vejo aqui que você assinou meu contrato então tem acesso ao menu,
+se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟
