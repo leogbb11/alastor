@@ -4,7 +4,7 @@ const ownerNumber = ["557398343318@s.whatsapp.net"]
 const OriginalOwner = '557398343318' 
 // mude para seu numero
 
-const menuimg = 'https://i.imgur.com/OaJw5Lh.gif'
+const menuimg = 'https://i.imgur.com/84CRV40.jpg'
 // Link da foto do menu
 
 const registeruser = false

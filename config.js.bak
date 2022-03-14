@@ -22,7 +22,7 @@ const antinewchatmsg = 'O anti chat novo está ativado e você não é meu propr
 //mensagem do antinewchat
 
 
-const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
+const antipvmsg = '*🚫 PV BLOQUEADO			https://chat.whatsapp.com/JsLkMHjuxQiJJ19LJ8SSeV 🚫*'
 //mensagem do antipv
 
 const limitqnt = 9999
@@ -174,7 +174,7 @@ let mess = {
     },
     only: {
         group: '❌ Infelizmente este comando está disponível somente para grupos meu caro! ❌',
-        ownerG: '❌ Este comando somente meu chefe pode usar! ❌',
+        ownerG: '❌ Este comando somente meu chefe, o poderossímo Léo, pode usar! ❌',
         ownerB: '❌ Este comando somente o grupo do meu chefe pode usar! ❌',
         admin: '❌ Se ponha no seu lugar membro comum ❌',
         Badmin: '❌ Como posso fazer esse comando se eu não sou administrado deste grupo! ❌'
